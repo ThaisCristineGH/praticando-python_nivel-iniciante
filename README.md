@@ -13,7 +13,7 @@ Para os meus estudos, utilizo o Jupyter Notebook integrado ao PyCharm, o que me 
 
 
 ## 💡 Ferramentas e Tecnologias
-1- Python: Linguagem principal utilizada para os scripts e lógica.
-2- Jupyter Notebook: Ambiente interativo para documentação e execução de código.
-3- PyCharm: IDE profissional utilizada para organizar e desenvolver o projeto.
-4- GitHub: Plataforma utilizada para hospedagem do código e controle de versão.
+* Python: Linguagem principal utilizada para os scripts e lógica.
+* Jupyter Notebook: Ambiente interativo para documentação e execução de código.
+* PyCharm: IDE profissional utilizada para organizar e desenvolver o projeto.
+* GitHub: Plataforma utilizada para hospedagem do código e controle de versão.
